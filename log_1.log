@@ -1,0 +1,4 @@
+Function call time: '2024-11-01 13:39:19' | Function 'hello_world' was called with args: 'args=(), kwargs={}' | Result: 'Hello World'
+Function call time: '2024-11-01 13:39:19' | Function 'summator' was called with args: 'args=(2, 2), kwargs={}' | Result: '4'
+Function call time: '2024-11-01 13:39:19' | Function 'div' was called with args: 'args=(6, 2), kwargs={}' | Result: '3.0'
+Function call time: '2024-11-01 13:39:19' | Function 'summator' was called with args: 'args=(4.3,), kwargs={'b': 2.2}' | Result: '6.5'
